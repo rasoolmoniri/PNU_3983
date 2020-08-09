@@ -54,27 +54,27 @@
  
  
  
-+ [بهاره برادران سلماس]( )  
++ [بهاره برادران سلماس](https://baharbsalmas.github.io/)  
   - [@BaharbSalmas](https://github.com/BaharbSalmas)
 
 
 
 
 
-+ []( )  
-  - [@]()
++ [علیرضا آذرخش](https://azarakhsh2552.github.io/ )  
+  - [@azarakhsh2552](https://github.com/azarakhsh2552)
  
  
  
-+ []( )  
-  - [@]()
++ [صغری عزیزی]( https://talaazizi.github.io/talaazizi/)  
+  - [@talaazizi](https://github.com/970167982)
 
 
 
 
 
-+ []( )  
-  - [@]()
++ [محمد طاها گوینده برحقی](http://mtaha00.github.io/ )  
+  - [@Mtaha00](https://github.com/Mtaha00)
  
  
  
